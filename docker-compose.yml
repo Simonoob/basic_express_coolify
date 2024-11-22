@@ -8,5 +8,4 @@ services:
     ports:
       - "3000"
     environment:
-      APP_URL: ${APP_URL}
       PORT: 3000
